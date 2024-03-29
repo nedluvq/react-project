@@ -1,0 +1,12 @@
+.rbc-today {
+  background-color: #ff5555;
+}
+.rbc-off-range-bg {
+  background-color: #e3a4ff;
+}
+.rbc-event {
+  background-color: #2d34c3;
+}
+.rbc-toolbar {
+  margin: 0 10px 10px;
+}
